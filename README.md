@@ -95,10 +95,3 @@
 4. Receive real-time notifications for attendee registrations and event updates.  
 
 ---
-
-
-
-## Live Demo (Optional)  
-[Link to hosted application]  
-
----

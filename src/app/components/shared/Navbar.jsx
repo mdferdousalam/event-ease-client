@@ -42,7 +42,7 @@ const Navbar = ({ session }) => {
           </ul>
         </div>
         <Link href="/" className="btn btn-ghost text-xl">
-          NextAuth
+          EventEase
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">

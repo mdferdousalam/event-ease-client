@@ -34,7 +34,7 @@ const Navbar = ({ session }) => {
             </li>
 
             <li>
-              <Link href="/about">About Us</Link>
+              <Link href="/about">Available Events</Link>
             </li>
             <li>
               <Link href="/support">Support</Link>
@@ -52,13 +52,13 @@ const Navbar = ({ session }) => {
           </li>
 
           <li>
-            <Link href="/about">About Us</Link>
+            <Link href="/about">Available Events</Link>
           </li>
           <li>
             <Link href="/support">Support</Link>
           </li>
           <li>
-            <Link href="/dashboard">Dashboard</Link>
+            <Link href="/dashboard">My Events</Link>
           </li>
         </ul>
       </div>

@@ -1,6 +1,6 @@
 "use server";
 export const registerUser = async (data) => {
-  const res = await fetch(`${process.env.BACKEND_URL}/register`, {
+  const res = await fetch(`${process.env.BACKEND_URL}/user/register`, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
